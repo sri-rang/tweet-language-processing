@@ -1,0 +1,9 @@
+target
+project/target
+
+*.sublime*
+.idea
+*.iml
+
+src/main/resources/twitter4j.properties
+src/test/resources/twitter4j.properties
